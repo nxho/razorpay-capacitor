@@ -57,11 +57,12 @@
   "swiftlint": "@ionic/swiftlint-config",
   "repository": {
     "type": "git",
-    "url": "https://github.com/razorpay/razorpay-cordova"
+    "url": "git+https://github.com/nxho/razorpay-capacitor.git"
   },
   "bugs": {
-    "url": "https://github.com/razorpay/razorpay-cordova/issues"
+    "url": "https://github.com/nxho/razorpay-capacitor/issues"
   },
+  "homepage": "https://github.com/nxho/razorpay-capacitor#readme",
   "publishConfig": {
     "access": "public"
   }
