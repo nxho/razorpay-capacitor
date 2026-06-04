@@ -1,0 +1,14 @@
+.gitignore
+  h_3e89aa82011a03 3
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "7dee004cd43625d5818ad0e5ca322065c195dcbf",
+  "prompts": {},
+  "humans": {
+    "h_3e89aa82011a03": {
+      "author": "Nathaniel Ho <nxho93@gmail.com>"
+    }
+  }
+}
