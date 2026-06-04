@@ -18,6 +18,7 @@ Capacitor plugin to support [Razorpay Standard Checkout](https://developer.apple
  -->
 
 ## Latest Changes
+- (nxho): Added support for Capacitor 8 migration
 - Added support for Capacitor 7 migration
 - Added support for Capacitor 4 migration
 - In case need to be used with Capacitor3 please install version 1.1.1 
