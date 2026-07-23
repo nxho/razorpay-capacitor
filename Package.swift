@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "CapacitorRazorpay",
+    name: "NxhoCapacitorRazorpay",
     platforms: [.iOS(.v15)],
     products: [
         .library(
-            name: "CapacitorRazorpay",
+            name: "NxhoCapacitorRazorpay",
             targets: ["Checkout"])
     ],
     dependencies: [

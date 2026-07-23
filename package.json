@@ -1,6 +1,6 @@
 {
   "name": "@nxho/capacitor-razorpay",
-  "version": "1.3.4",
+  "version": "1.3.5",
   "description": "This plugin is used for integration related to ionic Capacitor and its latest versions.",
   "main": "dist/plugin.js",
   "module": "dist/esm/index.js",
@@ -15,7 +15,7 @@
     "prepublishOnly": "npm run build",
     "prepack": "npm run build"
   },
-  "author": "sachin.nautiyal@razorpay.com",
+  "author": "nxho93@gmail.com",
   "license": "MIT",
   "devDependencies": {
     "@capacitor/android": "^8.0.0",
