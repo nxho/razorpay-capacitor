@@ -7,7 +7,13 @@ import Razorpay
  * here: https://capacitorjs.com/docs/plugins/ios
  */
 @objc(Checkout)
-public class Checkout: CAPPlugin {
+public class Checkout: CAPPlugin, CAPBridgedPlugin {
+    public let identifier = "Checkout"
+    public let jsName = "Checkout"
+    public let pluginMethods: [CAPPluginMethod] = [
+        CAPPluginMethod(name: "echo", returnType: CAPPluginReturnPromise),
+        CAPPluginMethod(name: "open", returnType: CAPPluginReturnPromise),
+    ]
     
     var call: CAPPluginCall?
     

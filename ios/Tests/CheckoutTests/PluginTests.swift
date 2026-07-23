@@ -1,6 +1,6 @@
 import XCTest
 import Capacitor
-@testable import Plugin
+@testable import Checkout
 
 class PluginTests: XCTestCase {
 

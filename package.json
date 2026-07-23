@@ -37,6 +37,7 @@
   "files": [
     "dist/",
     "ios/",
+    "Package.swift",
     "android/",
     "CapacitorRazorpay.podspec"
   ],
